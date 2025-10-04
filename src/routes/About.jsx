@@ -5,37 +5,37 @@ export default function About() {
   const objectives = [
     {
       title: "PLANT LIFE & NEEDS",
-      img: "/images/seedling.png",
+      img: `${process.env.PUBLIC_URL}/images/seedling.png`,
       desc: "Understand plant life cycles, needs, and importance",
       bg: "bg-yellow-100",
     },
     {
       title: "CARE & STEWARDSHIP",
-      img: "/images/girl-watering.png",
+      img: `${process.env.PUBLIC_URL}/images/girl-watering.png`,
       desc: "Demonstrate responsibility in plant care & environmental stewardship",
       bg: "bg-pink-100",
     },
     {
       title: "CLIMATE AWARENESS",
-      img: "/images/water.png",
+      img: `${process.env.PUBLIC_URL}/images/water.png`,
       desc: "Recognize climate patterns and their impact on living things",
       bg: "bg-blue-100",
     },
     {
       title: "REDUCE REUSE RECYCLE",
-      img: "/images/children.png",
+      img: `${process.env.PUBLIC_URL}/images/children.png`,
       desc: "Apply reduce, reuse, recycle principles in daily life",
       bg: "bg-green-100",
     },
     {
       title: "THINKING SKILLS",
-      img: "/images/boy-weeding.png",
+      img: `${process.env.PUBLIC_URL}/images/boy-weeding.png`,
       desc: "Develop observation, critical thinking, and problem-solving skills",
       bg: "bg-purple-100",
     },
     {
       title: "COMMUNITY & ACTION",
-      img: "/images/bee-pollinator.png",
+      img: `${process.env.PUBLIC_URL}/images/bee-pollinator.png`,
       desc: "Foster community engagement and environmental activism",
       bg: "bg-orange-100",
     },
