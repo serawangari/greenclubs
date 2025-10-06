@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Sponsors() {
   const sponsors = [
-    { name: "Britam", img: `${process.env.PUBLIC_URL}/images/britam.png` },
-    { name: "CIC", img: `${process.env.PUBLIC_URL}/images/cic.png` },
-    { name: "Capital A", img: `${process.env.PUBLIC_URL}/images/capitala.png` },
-    { name: "Leafscape", img: `${process.env.PUBLIC_URL}/images/leafscape.png` },
+    { name: "Britam", img: "/greenclubs/images/britam.png" },
+    { name: "CIC", img: "/greenclubs/images/cic.png" },
+    { name: "Capital A", "/greenclubs/images/capitala.png" },
+    { name: "Leafscape", "/greenclubs/images/leafscape.png"},
   ];
 
   return (
