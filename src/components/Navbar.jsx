@@ -7,7 +7,7 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center gap-2">
         <img
-          src={`${import.meta.env.BASE_URL}images/leafscape.png`}
+          src="/greenclubs/images/leafscape.png"
           alt="Leafscape Logo"
           className="w-10 h-10 drop-shadow-lg"
         />
