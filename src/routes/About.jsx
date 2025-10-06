@@ -5,37 +5,37 @@ export default function About() {
   const objectives = [
     {
       title: "PLANT LIFE & NEEDS",
-      img: `${process.env.PUBLIC_URL}/images/seedling.png`,
+      img: "/greenclubs/images/seedling.png",
       desc: "Understand plant life cycles, needs, and importance",
       bg: "bg-yellow-100",
     },
     {
       title: "CARE & STEWARDSHIP",
-      img: `${process.env.PUBLIC_URL}/images/girl-watering.png`,
+      img: "/greenclubs/images/girl-watering.png",
       desc: "Demonstrate responsibility in plant care & environmental stewardship",
       bg: "bg-pink-100",
     },
     {
       title: "CLIMATE AWARENESS",
-      img: `${process.env.PUBLIC_URL}/images/water.png`,
+      img: "/greenclubs/images/water.png",
       desc: "Recognize climate patterns and their impact on living things",
       bg: "bg-blue-100",
     },
     {
       title: "REDUCE REUSE RECYCLE",
-      img: `${process.env.PUBLIC_URL}/images/children.png`,
+      img: "/greenclubs/images/children.png",
       desc: "Apply reduce, reuse, recycle principles in daily life",
       bg: "bg-green-100",
     },
     {
       title: "THINKING SKILLS",
-      img: `${process.env.PUBLIC_URL}/images/boy-weeding.png`,
+      img: "/greenclubs/images/boy-weeding.png",
       desc: "Develop observation, critical thinking, and problem-solving skills",
       bg: "bg-purple-100",
     },
     {
       title: "COMMUNITY & ACTION",
-      img: `${process.env.PUBLIC_URL}/images/bee-pollinator.png`,
+      img: "/greenclubs/images/bee-pollinator.png",
       desc: "Foster community engagement and environmental activism",
       bg: "bg-orange-100",
     },
