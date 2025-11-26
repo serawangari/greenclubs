@@ -9,7 +9,7 @@ export default function Sponsors() {
   ];
 
   return (
-    <div className="min-h-screen bg-leafscape-1 bg-opacity-90 py-28 px-6">
+    <div className="min-h-screen bg-green-500 bg-opacity-90 py-28 px-6">
       <div className="max-w-6xl mx-auto text-center">
         {/* Heading */}
         <h1 className="text-5xl font-extrabold text-yellow-400 mb-10 capitalize tracking-wide">
